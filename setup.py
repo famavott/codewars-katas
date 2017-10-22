@@ -3,15 +3,13 @@
 from setuptools import setup
 
 setup(
-    name='Mailroom Madness',
-    description='This module contains functions, which trigger prompts, meant for command line execution.',
-    author='Carson and Matt',
-    author_email='carson.newton@outlook.com',
+    name='Codewars Katas',
+    description='This module contains katas.',
+    author='Matt',
+    author_email='mattfavoino@gmail.com',
     package_dir={'': 'src'},
-    py_modules=['mailroom'],
-    install_requires=['ipython'],
+    py_modules=['die'],
     extras_require={
-        'testing': ['pytest', 'pytest-cov', 'tox']},
-    entry_points={
-    }
+        'testing': ['pytest', 'pytest-cov', 'tox'],
+        'development': ['ipython']}
 )
