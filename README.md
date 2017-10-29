@@ -42,3 +42,8 @@
 - **Tests**: `test_vowel_count.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 
+**Sum of the first nth term of Series**
+
+**Module**: `sum_of_nth_terms.py`
+**Tests**: `test_sum_of_nth_terms.py`
+**URL**: [challenge url](`https://www.codewars.com/kata/555eded1ad94b00403000071`)
