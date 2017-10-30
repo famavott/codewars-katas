@@ -44,13 +44,13 @@
 
 **Sum of the first nth term of Series**
 
-**Module**: `sum_of_nth_terms.py`
-**Tests**: `test_sum_of_nth_terms.py`
-**URL**: [challenge url](https://www.codewars.com/kata/555eded1ad94b00403000071)
+- **Module**: `sum_of_nth_terms.py`
+- **Tests**: `test_sum_of_nth_terms.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/555eded1ad94b00403000071)
 
 **Proper Parenthetics**
 
-**Module**: `parenthetics.py`
-**Tests**: `test_parenthetics.py`
-**URL**:[challenge url](https://codefellows.github.io/sea-python-401d7/assignments/proper_parenthetics.html)
-**Attributions**:https://www.youtube.com/watch?v=IhJGJG-9Dx8, https://www.youtube.com/watch?v=QZOLb0xHB_Q
+- **Module**: `parenthetics.py`
+- **Tests**: `test_parenthetics.py`
+- **URL**:[challenge url](https://codefellows.github.io/sea-python-401d7/assignments/proper_parenthetics.html)
+- **Attributions**:https://www.youtube.com/watch?v=IhJGJG-9Dx8, https://www.youtube.com/watch?v=QZOLb0xHB_Q
