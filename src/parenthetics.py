@@ -12,7 +12,7 @@ def proper_parenthetics(string):
             count += 1
         elif char == ')':
             count -= 1
-        elif count < 0:
+        if count < 0:
             return -1
     if count == 0:
         return 0
@@ -21,4 +21,6 @@ def proper_parenthetics(string):
 
 
 if __name__ == '__main__':
-    print(proper_parenthetics('(((()))()))'))
+    print(proper_parenthetics('()()()()())'))
+    print(proper_parenthetics('()()'))
+    print(proper_parenthetics('('))
