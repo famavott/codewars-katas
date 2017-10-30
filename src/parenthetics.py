@@ -1,4 +1,4 @@
-"""Test if a string of parentheses is open, balanced, or broken with the use of a data structure."""
+"""Test if string of parentheses is open, balanced, or broken with the use of a data structure."""
 
 from stack import Stack
 
