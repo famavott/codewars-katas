@@ -16,3 +16,8 @@ def is_palindrome(string):
         return True
     else:
         return False
+
+
+def is_palindrome(strng):
+    """Return bool if strng is palindrome."""
+    return str(strng) == str(strng)[::-1]
